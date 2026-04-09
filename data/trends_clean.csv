@@ -1,0 +1,111 @@
+post_id,title,category,score,num_comments,author,collected_at
+47685644,Introduction to Nintendo DS Programming,technology,149,23,medbar,2026-04-09 23:38:26
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,171,143,kisamoto,2026-04-09 23:38:28
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,technology,85,8,juretriglav,2026-04-09 23:38:30
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,100,75,SirHound,2026-04-09 23:38:33
+47704881,The Vercel plugin on Claude Code wants to read your prompts,technology,202,67,akshay2603,2026-04-09 23:38:35
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,technology,25,32,meryll_dindin,2026-04-09 23:38:39
+47699181,Open source security at Astral,technology,315,75,vinhnx,2026-04-09 23:38:40
+47706141,Research-Driven Agents: What Happens When Your Agent Reads Before It Codes,technology,10,1,hopechong,2026-04-09 23:38:45
+47701233,Claude mixes up who said what,technology,351,296,sixhobbits,2026-04-09 23:38:47
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,384,46,WerWolv,2026-04-09 23:38:50
+47660434,C# in Unity 2026: Writing more modern code,technology,65,75,hacker_13,2026-04-09 23:38:54
+47645010,Dr. Dobb's Developer Library DVD 6 (2010),technology,121,44,kristianp,2026-04-09 23:38:56
+47687273,Git commands I run before reading any code,technology,2166,462,grepsedawk,2026-04-09 23:38:59
+47706482,"AI, Unemployment and Work",technology,6,1,speckx,2026-04-09 23:39:02
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,technology,34,11,bjord,2026-04-09 23:39:05
+47706113,"Desalination Technology, by the Numbers",technology,8,0,Brajeshwar,2026-04-09 23:39:07
+47700460,Ask HN: What are you building that's not AI related?,technology,94,118,meander_water,2026-04-09 23:39:12
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,361,118,CharlesW,2026-04-09 23:39:14
+47689237,US cities are axing Flock Safety surveillance technology,technology,737,414,giuliomagnifico,2026-04-09 23:39:17
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,404,188,nickvec,2026-04-09 23:39:20
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1506,813,Ryan5453,2026-04-09 23:39:23
+47656518,Your File System Is Already A Graph Database,technology,179,75,alxndr,2026-04-09 23:39:24
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,321,56,chrsw,2026-04-09 23:39:29
+47674606,Show HN: Unicode Steganography,technology,54,13,PatrickVuscan,2026-04-09 23:39:33
+47698067,You Can Just Print an Air Purifier,technology,34,6,zdw,2026-04-09 23:39:38
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,381,360,chabons,2026-04-09 23:39:00
+47634422,Native Americans had dice 12k years ago,worldnews,135,86,delichon,2026-04-09 23:39:33
+47702861,Encrypted Client Hello: How it was blocked in Russia and next steps,worldnews,21,4,grittygrease,2026-04-09 23:39:45
+47682276,US and Iran agree to provisional ceasefire,worldnews,597,1989,g-b-r,2026-04-09 23:40:01
+47703398,Hackers exploiting Acrobat Reader zero-day flaw since December,worldnews,7,0,kevcampb,2026-04-09 23:40:07
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,613,259,zixuanlimit,2026-04-09 23:40:15
+47690434,Iran demands Bitcoin fees for ships passing Hormuz during ceasefire,worldnews,166,267,pavlov,2026-04-09 23:40:29
+47680124,IPv6 is the only way forward,worldnews,101,306,quaintdev,2026-04-09 23:40:33
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,114,26,rryan,2026-04-09 23:40:48
+47698082,Newly created Polymarket accounts win big on well-timed Iran ceasefire bets,worldnews,151,128,mitchbob,2026-04-09 23:40:49
+47679155,Assessing Claude Mythos Preview's cybersecurity capabilities,worldnews,316,52,sweis,2026-04-09 23:41:05
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,55,18,zdw,2026-04-09 23:41:07
+47672778,Breaking the console: a brief history of video game security,worldnews,96,26,sprado,2026-04-09 23:41:08
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,323,160,Bender,2026-04-09 23:41:50
+47652400,Why Switzerland has 25 Gbit internet and America doesn't,worldnews,804,690,sschueller,2026-04-09 23:42:05
+47697147,US court declines to block Pentagon's Anthropic blacklisting for now,worldnews,30,13,spenvo,2026-04-09 23:42:14
+47704550,US plans to automatically register men for military draft eligibility,worldnews,7,2,tartoran,2026-04-09 23:42:16
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,317,90,player_piano,2026-04-09 23:42:17
+47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,27,1,ibobev,2026-04-09 23:42:21
+47704700,"'Snoopy', 'Adolf' and 'Password': The Hungarian Government Passwords Exposed",worldnews,9,3,lschueller,2026-04-09 23:42:35
+47704018,LinkedIn scanning users' browser extensions sparks controversy and two lawsuits,worldnews,6,0,Brajeshwar,2026-04-09 23:42:49
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,978,621,zaikunzhang,2026-04-09 23:43:05
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,31,12,brene,2026-04-09 23:43:17
+47702506,UK Defence secretary reveals month-long Russian submarine operation over cables,worldnews,5,0,spzb,2026-04-09 23:43:18
+47663743,"Show HN: Moon simulator game, ray-casting",sports,83,18,JKCalhoun,2026-04-09 23:38:52
+47656730,Understanding Traceroute,sports,156,24,stonecharioteer,2026-04-09 23:39:08
+47690977,"Microsoft terminates VeraCrypt account, halting Windows updates",sports,560,228,donohoe,2026-04-09 23:39:22
+47705383,CDC delays publishing report showing Covid vaccine benefits,sports,14,2,ceejayoz,2026-04-09 23:39:41
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,107,31,pruz,2026-04-09 23:39:49
+47622717,Study investigates how mass distribution of baseball bat affects performance,sports,24,17,Magi604,2026-04-09 23:40:25
+47654629,The Harvard Library Passport,sports,40,15,fi-le,2026-04-09 23:41:10
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,538,163,akyuu,2026-04-09 23:41:51
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,307,192,keepamovin,2026-04-09 23:42:05
+47637377,LÖVE: 2D Game Framework for Lua,sports,414,217,cl3misch,2026-04-09 23:42:41
+47695616,YouTube starts showing 90-second unskippable ads to TV viewers,sports,30,19,Brajeshwar,2026-04-09 23:42:56
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",sports,100,28,mohshomis,2026-04-09 23:43:07
+47682384,"GLM-5.1 matches Opus 4.6 in agentic performance, at ~1/3 actual cost",sports,21,2,skysniper,2026-04-09 23:43:38
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,sports,32,31,fsloth,2026-04-09 23:44:08
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,62,angst,2026-04-09 23:45:55
+47681241,Anthropic's Project Glasswing sounds necessary to me,sports,55,11,simonw,2026-04-09 23:45:56
+47673928,Record wind and solar saved UK from gas imports worth £1B in March 2026,sports,119,129,mindracer,2026-04-09 23:46:15
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,science,118,55,DamnInteresting,2026-04-09 23:39:10
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,science,579,582,ra,2026-04-09 23:39:21
+47648307,Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing,science,46,17,bookofjoe,2026-04-09 23:39:50
+47682719,Xilem – An experimental Rust native UI framework,science,139,85,Levitating,2026-04-09 23:40:04
+47681274,Bitcoin and quantum computing,science,166,133,nehan,2026-04-09 23:40:39
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,science,284,68,frasermarlow,2026-04-09 23:40:42
+47627217,Running out of disk space in production,science,219,128,romes,2026-04-09 23:40:58
+47675213,Google open-sources experimental agent orchestration testbed Scion,science,227,58,timbilt,2026-04-09 23:41:26
+47662234,A cryptography engineer's perspective on quantum computing timelines,science,544,248,thadt,2026-04-09 23:41:33
+47650502,Computational Physics (2nd Edition) (2025),science,184,22,teleforce,2026-04-09 23:42:20
+47631118,Artemis II crew take “spectacular” image of Earth,science,1076,387,andsoitis,2026-04-09 23:42:38
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-09 23:42:52
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-09 23:43:16
+47703707,Trump admin makes sweeping request for medical records of federal workers,science,9,2,voxadam,2026-04-09 23:43:21
+47649113,Finnish sauna heat exposure induces stronger immune cell than cytokine responses,science,386,283,Growtika,2026-04-09 23:43:46
+47697138,Genes for gut hormones may be why you aren't losing weight with GLP-1 drugs,science,5,1,bookofjoe,2026-04-09 23:44:36
+47648404,My Google Workspace account suspension,science,369,221,zenincognito,2026-04-09 23:44:56
+47629485,A case study in testing with 100+ Claude agents in parallel,science,67,54,thejash,2026-04-09 23:45:13
+47691409,Reproducibility and robustness of economics and political science research,science,5,0,lamename,2026-04-09 23:45:26
+47690940,This method to reverse cellular ageing is about to be tested in humans,science,7,0,bookofjoe,2026-04-09 23:46:13
+47703419,Meta removes ads for social media addiction litigation,entertainment,392,160,giuliomagnifico,2026-04-09 23:38:31
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,36,47,randerson_112,2026-04-09 23:38:32
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,32,17,behat,2026-04-09 23:38:36
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,133,43,willmeyers,2026-04-09 23:38:55
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,61,18,meribold,2026-04-09 23:39:19
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,130,144,latchkey,2026-04-09 23:39:26
+47696562,Show HN: Is Hormuz open yet?,entertainment,435,191,anonfunction,2026-04-09 23:39:27
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,60,11,rvitorper,2026-04-09 23:39:42
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,106,56,indraneelpatil,2026-04-09 23:39:52
+47685739,Revision Demoparty 2026: Razor1911 [video],entertainment,374,128,tetrisgm,2026-04-09 23:39:56
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,777,235,sam-bee,2026-04-09 23:40:20
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,162,31,intofarlands,2026-04-09 23:41:13
+47691174,Show HN: Explore the Silk Roads through an interactive map,entertainment,47,6,intofarlands,2026-04-09 23:41:14
+47697679,I built a tool to let you export your X bookmarks and categorize them,entertainment,16,8,xarchive,2026-04-09 23:41:20
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,464,199,MattHart88,2026-04-09 23:41:28
+47693407,Show HN: 500k+ events/sec transformations for ClickHouse ingestion,entertainment,12,3,super_ar,2026-04-09 23:41:32
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,115,32,noone_youknow,2026-04-09 23:41:36
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,100,17,Sean-Der,2026-04-09 23:41:46
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,120,49,factorialboy,2026-04-09 23:41:52
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,247,204,Zm44,2026-04-09 23:42:04
+47649721,Artemis II crew see first glimpse of far side of Moon [video],entertainment,523,428,mooreds,2026-04-09 23:42:25
+47660853,Book review: There Is No Antimemetics Division,entertainment,279,226,ibobev,2026-04-09 23:42:27
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,66,12,4RH1T3CT0R,2026-04-09 23:42:30
+47627998,VOID: Video Object and Interaction Deletion,entertainment,182,54,bobsoap,2026-04-09 23:42:31
